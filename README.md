@@ -1,6 +1,6 @@
 # Dice Roll Game using JavaScript
 
-Dice Roll Game with Source Code is a project that is a multi-player game where goal is to get a highest dice roll. The game has a simple design that contains an image of a dice. The purpose of the game is to provide some fun with your friends.
+Dice Roll Game is a project that is a multi-player game where goal is to get a highest dice roll. The game has a simple design that contains an image of a dice. The purpose of the game is to provide some fun with your friends.
 
 ![img](./dice-roll-game-using-javascript.png)
 
